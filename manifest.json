@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-25T10:00:00Z",
+  "items": [
+    {
+      "id": "vente-dashboard-ventes-2026",
+      "type": "Dashboard",
+      "module": "SD",
+      "name": "Ventes mensuelles 2026",
+      "version": "1.0.0",
+      "path": "modules/Vente_SD/dashboards/ventes-2026.xml",
+      "sha256": "<sha256 of the file in uppercase hex>"
+    }
+  ]
+}
