@@ -9,7 +9,16 @@
       "name": "Ventes mensuelles 2026",
       "version": "1.0.0",
       "path": "modules/Vente_SD/dashboards/ventes-2026.xml",
-      "sha256": "<sha256 of the file in uppercase hex>"
+      "sha256": "D77ADCF7C4FCA34661D923D20CE4F1F4FC02DE77D1310779E47F743AD5B5D166"
+    },
+    {
+      "id": "rh-report-fiche-paie-2026",
+      "type": "Report",
+      "module": "RH",
+      "name": "Fiche de paie 2026",
+      "version": "1.0.0",
+      "path": "modules/RessourcesHumaines_RH/reports/fiche-paie-2026.repx",
+      "sha256": "292CC62D1AF362D4917E4BF97095D359E17DE1FBE59DE08201975C149495178B"
     }
   ]
 }
